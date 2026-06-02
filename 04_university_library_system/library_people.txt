@@ -1,0 +1,5 @@
+E, 1, Head Librarian, 80000, 0
+E, 2, Section Manager, 50000, 1
+M, 3, Regular Student, 500, 0
+S, 4, Working Student, 12000, 500, 2
+S, 5, Archive Intern, 10000, 200, 2
